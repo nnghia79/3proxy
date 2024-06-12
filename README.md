@@ -18,7 +18,7 @@ Nếu ping trả về gói tin thì cấu hình IPv6 đã thành công và chuy�
 
 ## Bước 2. Cài đặt proxy vào máy chủ với Range /112 như sau
 
-curl -sO https://raw.githubusercontent.com/cloudfly-vn/3proxy/main/ipv6-with-port-password.sh && chmod +x ipv6-with-port-password.sh && bash ipv6-with-port-password.sh
+curl -sO https://raw.githubusercontent.com/nnghia79/3proxy/main/ipv6-with-port-password.sh && chmod +x ipv6-with-port-password.sh && bash ipv6-with-port-password.sh
 
 
 ## Bước 3: Lấy thông tin tài khoản
